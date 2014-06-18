@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">UnitConvertor</string>
+    <string name="title_activity_main">Unit Convertor</string>
+    <string name="hello_world">Hello world!</string>
+    <string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/string1" name="Distance">Distance</string>
+    <string android:layout_width="wrap_content" android:id="@+id/string1" android:layout_height="wrap_content" name="Miles">Miles</string>
+    <string android:layout_height="wrap_content" android:id="@+id/string1" android:layout_width="wrap_content" name="Kilometers">Kilometers</string>
+    <string android:layout_width="wrap_content" android:id="@+id/string1" android:layout_height="wrap_content" name="Temperature">Temperature</string>
+    <string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/string1" name="Weight">Weight</string>
+    <string android:layout_width="wrap_content" android:id="@+id/string1" android:layout_height="wrap_content" name="UnitConvertorTool">Unit Convertor Tool</string>
+    <string name="Fahrenheit">Fahrenheit</string>
+    <string name="Celisus">Celisus</string>
+    <string name="Pounds">Pounds</string>
+    <string name="Kilograms">Kilograms</string>
+
+</resources>
